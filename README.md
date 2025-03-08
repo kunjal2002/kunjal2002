@@ -29,6 +29,7 @@ Hello everyone, I am Kunjal🙂, a Master of Science in Computer Science student
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunjal2002&" alt="kunjal2002" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunjal2002&show_icons=true&locale=en" alt="kunjal2002" /></p>
 <!--
 **kunjal2002/kunjal2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
