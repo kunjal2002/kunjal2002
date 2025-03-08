@@ -9,6 +9,7 @@ Hello everyone, I am Kunjal🙂, a Master of Science in Computer Science student
   <li>📘 If you have similar interests, let's connect!</li>
   <li>📫 Reach out to me at:-<b>kunjalagrawal2002@gmail.com</b></li>
   <li>✨Hobbies:- Basketball, Badminton, Swimming, Painting.</li>
+  <li>👨‍💻 <a href="https://kunjal-portfolio.vercel.app">Portfolio</a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
