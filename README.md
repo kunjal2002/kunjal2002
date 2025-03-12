@@ -3,6 +3,8 @@
 Hello everyone, I am Kunjal🙂, a Master of Science in Computer Science student at the University of California, Davis. I am passionate about working with data and software development. I have experience in building dynamic web applications and ML projects. I worked at HSBC for 6 months and was working on a full stack internal project where I used JAVA, Vert.x, React.js, JavaScript, TypeScript, and Oracle database to build services. I'm enthusiastic about technology and thrive on creating innovative solutions. Let's connect and explore opportunities to collaborate or share insights in the world of Software Development and Data Science✨
 <br>
 <br>
+<img src="https://komarev.com/ghpvc/?username=kunjal2002&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+
 <ul>
   <li>🌱 I am interested in Full Stack Web Dev projects as well as Data Science related work.</li>
   <li>💬 Ask me about full stack or data related questions.</li>
